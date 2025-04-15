@@ -4,7 +4,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background-color: #c91313;
+    background-color: #f89ed6;
 }
 
 /*
@@ -91,7 +91,7 @@
 .stylized::first-letter {
     font-size: 3rem;        /* Velikost prvního písmena */
     font-weight: bold;      /* Tučné písmo */
-    color: #a83232;         /* Barva prvního písmena */
+    color: #dd7777;         /* Barva prvního písmena */
     float: left;            /* Obtékání textu kolem písmene */
     margin-right: 10px;     /* Odsazení od textu */
     line-height: 1;         /* Zarovnání řádku */
@@ -99,12 +99,12 @@
   }
 
 .kartaleva {
-    background-color: chocolate;
+    background-color: rgb(241, 157, 216);
     width: 400px;
 }
 
 .kartaprava {
-    background-color: rgb(69, 51, 87);
+    background-color: rgb(194, 161, 228);
     width: 400px;
 }
 
@@ -117,10 +117,10 @@ h1 {
 
 
 .h1 {
-    color: violet;
+    color: rgb(194, 145, 194);
 }
 .kartanova {
-    background-color: #c91313;
+    background-color: #fa92db;
     border-radius: 30px 30px 0px 0px;
     border-style: dotted;
     padding: 10px;
